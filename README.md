@@ -1,6 +1,6 @@
 # All Restaurants in Olathe, Kansas, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 27 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `237418` |
 | Location | Olathe |
 | Category | Restaurants |
-| Full dataset size | 281 records |
-| Free sample size | 28 records (9.96%) |
-| Last export | 2026-04-09T11:27:35.824902+00:00 |
+| Full dataset size | 276 records |
+| Free sample size | 27 records (9.78%) |
+| Last export | 2026-04-16T11:26:42.967835+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-olathe-kansas-us-sample-237418/releases/download/sample-latest/beamstation_237418_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
