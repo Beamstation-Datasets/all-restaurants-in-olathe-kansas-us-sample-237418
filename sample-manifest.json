@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3f02a0b9-452e-4006-a377-2ed8b022dcd4",
+  "export_job_id": "9e232991-7aa7-4401-abcc-c8662884d05e",
   "id_short": 237418,
-  "published_at": "2026-04-23T19:02:58Z",
+  "published_at": "2026-04-30T19:06:27Z",
   "repo_name": "all-restaurants-in-olathe-kansas-us-sample-237418",
   "sample_asset_name": "beamstation_237418_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/237418/beamstation_237418_restaurants-us-ks_SAMPLE_DIST.csv",
-  "sample_records": 12,
-  "sample_sha256": "0d9fbdd49240bb8786bea0e7778d31620382c88aa5fb9a1d1ff7caeb6f5862de",
-  "sample_size_bytes": 58961,
-  "total_records": 125
+  "sample_records": 28,
+  "sample_sha256": "dc4e5973ba91260a89d996923343690f01ee80e9fefc45dee1dcf123037f09bd",
+  "sample_size_bytes": 109792,
+  "total_records": 282
 }
